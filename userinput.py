@@ -1,0 +1,6 @@
+name=input("Enter your name :")
+department=input("inter your department :")
+Roll=input("Enter your roll :")
+print(name)
+print(department)
+print(Roll)
